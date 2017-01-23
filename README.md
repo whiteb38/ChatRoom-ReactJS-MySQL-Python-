@@ -1,7 +1,7 @@
 # chatroom_practice
 
 Practice project to familiarize tools and build collaboration plan.
-Using Node.js, Angular, Jquery, etc... (TBD)
+Using Node.js, socket.io, jquery, etc...
 
 ### Required features:
 ##  -User accounts
