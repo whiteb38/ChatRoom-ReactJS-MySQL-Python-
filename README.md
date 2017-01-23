@@ -10,10 +10,14 @@ Using Node.js, Angular, Jquery, etc... (TBD)
     - password
     - verification system (email?)
 ##  -Chat
+    - Broadcast a message to connected users when someone connects or disconnects
     - support media
     - support group chat
     - persistent Storage of chat messages
     - timestamped
+    - Add “{user} is typing” functionality
+    - Show who’s online
+    - Add private messaging
     
 ###  Stretch:
     - Support voip chat?
