@@ -22,6 +22,7 @@ Using Node.js, socket.io, jquery, etc...
 ###  Stretch:
     - Support voip chat?
     - Location based Chat (based on location (IP or manual entry) a list of nearby users appears)
+    - NLP conversation
     
  ### Useful Resources:
  APIs: https://github.com/abhishekbanthia/Public-APIs
